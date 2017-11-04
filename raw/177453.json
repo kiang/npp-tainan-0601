@@ -1,0 +1,385 @@
+{
+"geometry": {
+"type": "Point", 
+"coordinates": [
+2, 
+51
+]
+}, 
+"type": "Feature", 
+"properties": {
+"miniMap": false, 
+"description": "", 
+"scrollWheelZoom": true, 
+"licences": {
+"Licence nenastavena.": {
+"url": "", 
+"name": "Licence nenastavena."
+}, 
+"Nessuna licenza definita": {
+"url": "", 
+"name": "Nessuna licenza definita"
+}, 
+"No se ha especificado la licencia": {
+"url": "", 
+"name": "No se ha especificado la licencia"
+}, 
+"Licence ouverte/Open Licence": {
+"url": "http://www.data.gouv.fr/Licence-Ouverte-Open-Licence", 
+"name": "Licence ouverte/Open Licence"
+}, 
+"B\u1ea3n quy\u1ec1n kh\u00f4ng \u0111\u01b0\u1ee3c \u0111\u1eb7t": {
+"url": "", 
+"name": "B\u1ea3n quy\u1ec1n kh\u00f4ng \u0111\u01b0\u1ee3c \u0111\u1eb7t"
+}, 
+"Aucune licence": {
+"url": "", 
+"name": "Aucune licence"
+}, 
+"\u041d\u044f\u043c\u0430 \u0438\u0437\u0431\u0440\u0430\u043d \u043b\u0438\u0446\u0435\u043d\u0437": {
+"url": "", 
+"name": "\u041d\u044f\u043c\u0430 \u0438\u0437\u0431\u0440\u0430\u043d \u043b\u0438\u0446\u0435\u043d\u0437"
+}, 
+"WTFPL": {
+"url": "http://www.wtfpl.net/", 
+"name": "WTFPL"
+}, 
+"Ning\u00fan conjunto de licencias": {
+"url": "", 
+"name": "Ning\u00fan conjunto de licencias"
+}, 
+"\u30e9\u30a4\u30bb\u30f3\u30b9\u672a\u8a2d\u5b9a": {
+"url": "", 
+"name": "\u30e9\u30a4\u30bb\u30f3\u30b9\u672a\u8a2d\u5b9a"
+}, 
+"Nessuna licenza impostata": {
+"url": "", 
+"name": "Nessuna licenza impostata"
+}, 
+"Nenustatyta licenzija": {
+"url": "", 
+"name": "Nenustatyta licenzija"
+}, 
+"Nenhuma licen\u00e7a definida": {
+"url": "", 
+"name": "Nenhuma licen\u00e7a definida"
+}, 
+"Keine Lizenz ausgew\u00e4hlt": {
+"url": "", 
+"name": "Keine Lizenz ausgew\u00e4hlt"
+}, 
+"No licence set": {
+"url": "", 
+"name": "No licence set"
+}, 
+"\u672a\u6307\u5b9a\u6388\u6b0a\u689d\u6b3e": {
+"url": "", 
+"name": "\u672a\u6307\u5b9a\u6388\u6b0a\u689d\u6b3e"
+}, 
+"ODbl": {
+"url": "http://opendatacommons.org/licenses/odbl/", 
+"name": "ODbl"
+}, 
+"No s'ha indicat llic\u00e8ncia": {
+"url": "", 
+"name": "No s'ha indicat llic\u00e8ncia"
+}, 
+"Ingen licens angivet": {
+"url": "", 
+"name": "Ingen licens angivet"
+}, 
+"\u041b\u0456\u0446\u0435\u043d\u0437\u0456\u044f \u043d\u0435 \u0437\u0430\u0434\u0430\u043d\u0430": {
+"url": "", 
+"name": "\u041b\u0456\u0446\u0435\u043d\u0437\u0456\u044f \u043d\u0435 \u0437\u0430\u0434\u0430\u043d\u0430"
+}, 
+"M\u00e4\u00e4ritt\u00e4m\u00e4t\u00f6n lisenssi": {
+"url": "", 
+"name": "M\u00e4\u00e4ritt\u00e4m\u00e4t\u00f6n lisenssi"
+}, 
+"\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u044f \u043d\u0435 \u0437\u0430\u0434\u0430\u043d\u0430": {
+"url": "", 
+"name": "\u041b\u0438\u0446\u0435\u043d\u0437\u0438\u044f \u043d\u0435 \u0437\u0430\u0434\u0430\u043d\u0430"
+}
+}, 
+"displayPopupFooter": false, 
+"allowEdit": false, 
+"slideshow": {}, 
+"scaleControl": true, 
+"datalayers": [
+{
+"displayOnLoad": true, 
+"name": "\u5716\u5c64 1", 
+"id": 436382
+}
+], 
+"moreControl": true, 
+"licence": "", 
+"locale": "en", 
+"name": "\u672a\u547d\u540d\u5730\u5716", 
+"default_iconUrl": "/static/storage/src/img/marker.png", 
+"searchControl": true, 
+"shortUrl": "http://u.osmfr.org/m/177453/", 
+"tilelayers": [
+{
+"attribution": "map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ", 
+"name": "OSM-Fr", 
+"url_template": "//{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png", 
+"selected": true, 
+"rank": 1, 
+"minZoom": 0, 
+"maxZoom": 20, 
+"id": 10
+}, 
+{
+"attribution": "map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ", 
+"name": "OpenStreetMap", 
+"url_template": "//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", 
+"rank": 2, 
+"minZoom": 0, 
+"maxZoom": 19, 
+"id": 1
+}, 
+{
+"attribution": "map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL  - Tiles \u00a9 HOT", 
+"name": "OSM Humanitarian (OSM-FR)", 
+"url_template": "//{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png", 
+"rank": 3, 
+"minZoom": 0, 
+"maxZoom": 20, 
+"id": 15
+}, 
+{
+"attribution": "map data \u00a9 [[http://osm.org/copyright|OpenStreetMap]] contributors", 
+"name": "OSM-monochrome", 
+"url_template": "http://www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png", 
+"rank": 4, 
+"minZoom": 1, 
+"maxZoom": 18, 
+"id": 11
+}, 
+{
+"attribution": "map data \u00a9 [[http://osm.org/copyright|OpenStreetMap]] - Tiles courtesy of [[https://geodienste.lyrk.de/copyright/|Lyrk]]", 
+"name": "OSM Lyrk", 
+"url_template": "http://tiles.lyrk.org/ls/{z}/{x}/{y}?apikey=982c82cc765f42cf950a57de0d891076", 
+"rank": 5, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 13
+}, 
+{
+"attribution": "map data \u00a9 [[http://osm.org/copyright|OpenStreetMap]] - Tiles courtesy of [[http://openstreetmap.se|OpenStreetMap Sweden]]", 
+"name": "OSM Hydda", 
+"url_template": "http://{s}.tile.openstreetmap.se/hydda/full/{z}/{x}/{y}.png", 
+"rank": 6, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 16
+}, 
+{
+"attribution": "Map tiles by [[http://cartodb.com/attributions#basemaps|CartoDB]], under [[https://creativecommons.org/licenses/by/3.0/|CC BY 3.0]]. map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL ", 
+"name": "OSM Positron (Carto)", 
+"url_template": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", 
+"rank": 10, 
+"minZoom": 0, 
+"maxZoom": 20, 
+"id": 20
+}, 
+{
+"attribution": "Map tiles by [[http://cartodb.com/attributions#basemaps|CartoDB]], under [[https://creativecommons.org/licenses/by/3.0/|CC BY 3.0]]. Data by [[http://www.openstreetmap.org/|OpenStreetMap]], under ODbL.", 
+"name": "OSM Dark Matter (Carto)", 
+"url_template": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/dark_all/{z}/{x}/{y}.png", 
+"rank": 11, 
+"minZoom": 0, 
+"maxZoom": 20, 
+"id": 21
+}, 
+{
+"attribution": "\u201cOpenCycleMap\u201d - map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL", 
+"name": "OSM OpenCycleMap", 
+"url_template": "https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey=e6b144cfc47a48fd928dad578eb026a6", 
+"rank": 12, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 5
+}, 
+{
+"attribution": "Map data \u00a9  [[http://osm.org/copyright|OpenStreetMap contributors]], tiles [[http://giscience.uni-hd.de/|GIScience Research Group @ Heidelberg University]]", 
+"name": "OSM Roads (uni-heidelberg)", 
+"url_template": "http://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}", 
+"rank": 13, 
+"minZoom": 0, 
+"maxZoom": 19, 
+"id": 18
+}, 
+{
+"attribution": "Tiles HikeBikeMap \u2014 Map Data \u00a9 [[http://www.openstreetmap.org/copyright|OpenStreetMap]] contributors", 
+"name": "OSM hikebikemap", 
+"url_template": "http://toolserver.org/tiles/hikebike/{z}/{x}/{y}.png", 
+"rank": 14, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 9
+}, 
+{
+"attribution": "Karte hergestellt aus [[http://osm.org|OpenStreetMap-Daten]] | Lizenz: [[http://opendatacommons.org/licenses/odbl/|Open Database License (ODbL)]] | Courtesy of [[http://openstreetmap.fr|OpenStreetMap.de]]", 
+"name": "OSM Deutschland (OSM-DE)", 
+"url_template": "http://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png", 
+"rank": 17, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 19
+}, 
+{
+"attribution": "Kartendaten: \u00a9 [[https://openstreetmap.org/copyright|OpenStreetMap]]-Mitwirkende, [[http://viewfinderpanoramas.org/|SRTM]] | Kartendarstellung: \u00a9 [[https://opentopomap.org/|OpenTopoMap]] ([[https://creativecommons.org/licenses/by-sa/3.0/|CC-BY-SA]])", 
+"name": "OSM OpenTopoMap", 
+"url_template": "http://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", 
+"rank": 18, 
+"minZoom": 1, 
+"maxZoom": 16, 
+"id": 17
+}, 
+{
+"attribution": "map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL  - tiles OpenRiverboatMap", 
+"name": "OSM OpenRiverboatMap", 
+"url_template": "//{s}.tile.openstreetmap.fr/openriverboatmap/{z}/{x}/{y}.png", 
+"rank": 19, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 4
+}, 
+{
+"attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.", 
+"name": "OSM Street (jawgmaps)", 
+"url_template": "https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community", 
+"rank": 20, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 25
+}, 
+{
+"attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.", 
+"name": "OSM Sunny (jawgmaps)", 
+"url_template": "https://tile.jawg.io/sunny/{z}/{x}/{y}.png?api-key=community", 
+"rank": 21, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 28
+}, 
+{
+"attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.", 
+"name": "OSM Light (jawgmaps)", 
+"url_template": "https://tile.jawg.io/light/{z}/{x}/{y}.png?api-key=community", 
+"rank": 22, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 26
+}, 
+{
+"attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.", 
+"name": "OSM Dark (jawgmaps)", 
+"url_template": "https://tile.jawg.io/dark/{z}/{x}/{y}.png?api-key=community", 
+"rank": 23, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 27
+}, 
+{
+"attribution": "Tiles \u00a9 [[http://www.thunderforest.com/outdoors/|Gravitystorm]] / map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL", 
+"name": "OSM Outdoors (Thunderforest)", 
+"url_template": "https://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png?apikey=e6b144cfc47a48fd928dad578eb026a6", 
+"rank": 30, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 14
+}, 
+{
+"attribution": "Tiles \u00a9 [[http://www.thunderforest.com/outdoors/|Gravitystorm]] / map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL", 
+"name": "OSM Landscape (Thunderforest)", 
+"url_template": "https://{s}.tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=e6b144cfc47a48fd928dad578eb026a6", 
+"rank": 31, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 6
+}, 
+{
+"attribution": "Tiles \u00a9 [[http://www.thunderforest.com/outdoors/|Gravitystorm]] / map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL", 
+"name": "OSM Transport (Thunderforest)", 
+"url_template": "https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png?apikey=e6b144cfc47a48fd928dad578eb026a6", 
+"rank": 32, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 3
+}, 
+{
+"attribution": "Map tiles by [[http://stamen.com|Stamen Design]], under [[http://creativecommons.org/licenses/by/3.0|CC BY 3.0]]. Data by [[http://openstreetmap.org|OpenStreetMap]], under [[http://creativecommons.org/licenses/by-sa/3.0|CC BY SA]].", 
+"name": "OSM Watercolor (Stamen)", 
+"url_template": "http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.jpg", 
+"rank": 40, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 8
+}, 
+{
+"attribution": "Map tiles by [[http://stamen.com|Stamen Design]], under [[http://creativecommons.org/licenses/by/3.0|CC BY 3.0]]. Data by [[http://openstreetmap.org|OpenStreetMap]], under [[http://creativecommons.org/licenses/by-sa/3.0|CC BY SA]].", 
+"name": "OSM Toner (Stamen)", 
+"url_template": "http://{s}.tile.stamen.com/toner-lite/{z}/{x}/{y}.png", 
+"rank": 41, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 2
+}, 
+{
+"attribution": "[[http://www.geoportail.gouv.fr/depot/api/cgu/CGU_API_libre.pdf|{{http://wxs.ign.fr/static/logos/IGN/IGN.gif|32}}]]", 
+"name": "IGN Image a\u00e9rienne (France)", 
+"url_template": "//wxs.ign.fr/73op4emhz6dyqwgcbuvr162u/wmts/?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=ORTHOIMAGERY.ORTHOPHOTOS&STYLE=normal&TILEMATRIXSET=PM&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image%2Fjpeg", 
+"rank": 80, 
+"minZoom": 0, 
+"maxZoom": 19, 
+"id": 23
+}, 
+{
+"attribution": "map data \u00a9 [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL", 
+"name": "**Deprecated** MapQuest Open (replaced by OSM-Fr)", 
+"url_template": "//{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png", 
+"rank": 99, 
+"minZoom": 0, 
+"maxZoom": 18, 
+"id": 7
+}
+], 
+"zoom": 6, 
+"embedControl": true, 
+"zoomControl": true, 
+"limitBounds": {}, 
+"datalayersControl": true, 
+"urls": {
+"map": "/en/map/{slug}_{pk}", 
+"datalayer_view": "/en/datalayer/{pk}/", 
+"map_old_url": "/en/map/{username}/{slug}/", 
+"map_geojson": "/en/map/{pk}/geojson/", 
+"map_anonymous_edit_url": "/en/map/anonymous-edit/{signature}", 
+"map_delete": "/en/map/{map_id}/update/delete/", 
+"logout": "/en/logout/", 
+"datalayer_create": "/en/map/{map_id}/datalayer/create/", 
+"map_update_permissions": "/en/map/{map_id}/update/permissions/", 
+"map_create": "/en/map/create/", 
+"map_update": "/en/map/{map_id}/update/settings/", 
+"datalayer_update": "/en/map/{map_id}/datalayer/update/{pk}/", 
+"map_clone": "/en/map/{map_id}/update/clone/", 
+"map_short_url": "/en/m/{pk}/", 
+"datalayer_versions": "/en/datalayer/{pk}/versions/", 
+"map_new": "/en/map/new/", 
+"ajax_proxy": "/ajax-proxy/?url={url}", 
+"routing": "http://www.openstreetmap.org/directions?engine=osrm_car&route={lat},{lng}&locale={locale}#map=12/{lat}/{lng}", 
+"login_popup_end": "/en/login/popup/end/", 
+"login": "/en/login/", 
+"datalayer_delete": "/en/map/{map_id}/datalayer/delete/{pk}/", 
+"pictogram_list_json": "/en/pictogram/json/", 
+"datalayer_version": "/en/datalayer/{pk}/{name}"
+}, 
+"storage_id": 177453, 
+"easing": true, 
+"captionBar": false, 
+"fullscreenControl": true
+}
+}
