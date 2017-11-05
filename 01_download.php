@@ -12,7 +12,13 @@ while($line = fgetcsv($fh, 2048)) {
     if(!file_exists($layerFile)) {
       file_put_contents($layerFile, file_get_contents('https://umap.openstreetmap.fr/zh-tw/datalayer/' . $layer->id));
     }
-    $layerJson = json_decode(file_get_contents($layerFile));
-    //print_r($layerJson); exit();
   }
+
+  $base = file_get_contents(__DIR__ . '/base.html');
+  $base = strtr($base, array(
+    '{{mapTitle}}' => $line[0],
+    '{{mapAuthor}}' => $line[1],
+    '{{mapId}}' => $line[2],
+  ));
+  file_put_contents(__DIR__ . '/page/' . $line[2] . '.html', $base);
 }
